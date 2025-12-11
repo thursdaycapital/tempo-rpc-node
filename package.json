@@ -1,0 +1,15 @@
+{
+  "name": "tempo-rpc-node",
+  "version": "1.0.0",
+  "description": "Tempo RPC Node with Health Check and Status Dashboard",
+  "main": "health.js",
+  "type": "module",
+  "scripts": {
+    "start": "node health.js",
+    "status": "node status.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
